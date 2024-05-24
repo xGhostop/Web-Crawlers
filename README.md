@@ -1,1 +1,1 @@
-This file is created to scrap text from websites.
+This file is created to scrap text from websites using BeautifulSoup.
